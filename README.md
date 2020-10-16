@@ -1,6 +1,6 @@
 # BigData
 <h1>Getting Started With BigData....</h1>
-<br><img src="https://media.giphy.com/media/sRFEa8lbeC7zbcIZZR/giphy.gif"><img src="https://miro.medium.com/max/800/1*cDO5wuA0NdevLb45zHRvog.jpeg" width=100px height=100px><br>
+<br><img src="https://media.giphy.com/media/sRFEa8lbeC7zbcIZZR/giphy.gif" width=400px heighr=400px><img src="https://miro.medium.com/max/800/1*cDO5wuA0NdevLb45zHRvog.jpeg" width=400px height=400px><br>
 
 <h2>Blogs !!</h2>
 <br>
